@@ -1,0 +1,1 @@
+This repositry is made to learn how to make a new repository using VS Code and push it directly to GitHub.
